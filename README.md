@@ -1,1 +1,1 @@
-# change_point_detection
+# Change Point Detection - A Bayesian Approach
