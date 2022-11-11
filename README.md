@@ -1,1 +1,2 @@
 # Change Point Detection - A Bayesian Approach
+This code is a implementation in Python and C++ of the fuzzy-bayesain change point detection methodology developed by the Phd Professor Flávio D'Angelo in his work "Uma Nova Formulação Fuzzy/Bayesiana para Detecção de Ponto de Mudança em Séries Temporais: Aplicações na Detecção de Falhas Incipientes" (Programa de Pós-Graduação em Engenharia Elétrica — Universidade Federal de Minas Gerais, 2010).
